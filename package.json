@@ -1,0 +1,16 @@
+{
+  "name": "devoir1",
+  "version": "1.0.0",
+  "description": "1er devoir (ALF)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Dulgheru",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "prompt": "^1.0.0",
+    "save": "^2.3.3"
+  }
+}
